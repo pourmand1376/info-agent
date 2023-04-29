@@ -1,0 +1,4 @@
+handle: show-info
+description: "I can answer some questions for a url"
+more_info_url: ""
+entry_point: show_info:agent

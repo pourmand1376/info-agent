@@ -1,0 +1,1 @@
+fixie console --agent fixie/tester "Test pourmand1376/show-info with query. What are top asked questions for this product? https://www.amazon.com/Google-Pixel-Pro-Smartphone-Telephoto/dp/B0BCQVHYQY/ref=sr_1_4?keywords=android&qid=1682772142&sr=8-4&th=1"
