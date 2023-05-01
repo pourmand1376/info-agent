@@ -1,9 +1,0 @@
-Q: How much RAM memory does this product have? https://www.amazon.com/Apple-MacBook-13-inch-256GB-Storage/dp/B08N5KWB9H/ref=sr_1_1?keywords=macbook&qid=1682770022&sr=8-1&th=1
-Ask Func[get_info]: https://www.amazon.com/Apple-MacBook-13-inch-256GB-Storage/dp/B08N5KWB9H/ref=sr_1_1?keywords=macbook&qid=1682770022&sr=8-1&th=1
-Func[get_info] says: #doc1
-A: 8 GB
-
-Q: What is the hard disk space for this product? https://www.amazon.com/Apple-MacBook-13-inch-256GB-Storage/dp/B08N5KWB9H/ref=sr_1_1?keywords=macbook&qid=1682770022&sr=8-1&th=1
-Ask Func[get_info]: https://www.amazon.com/Apple-MacBook-13-inch-256GB-Storage/dp/B08N5KWB9H/ref=sr_1_1?keywords=macbook&qid=1682770022&sr=8-1&th=1
-Func[get_info] says: #doc1
-A: 256 GB
